@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE root [<!ENTITY read SYSTEM 'file:///etc/passwd'>]>
 <rss version="2.0">
+<channel>
 <root>&read;</root>
+</channel>
 </rss>
