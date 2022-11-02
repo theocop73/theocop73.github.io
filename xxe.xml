@@ -1,0 +1,4 @@
+<!DOCTYPE replace [<!ENTITY name “YOURNAME”> ]>
+ <userInfo>
+ <fullName>&name;</fullName>
+ </userInfo>
