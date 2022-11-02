@@ -1,8 +1,11 @@
 <?xml version="1.0"?>
-<!-- <!DOCTYPE replace [<!ENTITY exemple  'jesus'>]> -->
 <rss version="2.0">
 <channel>
-<title>zizi</title>
-<description>zaza</description>
+    <title>XUL</title>
+    <link>https://www.xul.fr</link>
+    <description>truc</description>
+    <item>
+    coucou
+    </item>
 </channel>
 </rss>
